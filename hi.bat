@@ -1,1 +1,2 @@
-start "C:\Program Files\Git\bin\git.exe"
+start powershell -noexit
+
